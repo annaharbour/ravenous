@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+
+.header {
+    background-color: #ff8c00;
+    
+    
+}
+
+.header h1 {
+    color: #3b2000;
+    font-family: Helvetica, Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+    font-size: 3rem;
+}
+
+    
+    
+    
+    

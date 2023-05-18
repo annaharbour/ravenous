@@ -1,0 +1,12 @@
+.business-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 30px;
+  }
+  
+  @media (max-width: 768px) {
+    .business-list {
+      flex-direction: column;
+    }
+  }
